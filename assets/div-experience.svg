@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" role="img" aria-label="Experience">
+<style>
+text{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,Menlo,monospace}
+.l{stroke:#222A38;stroke-width:1.5}
+.t{font-size:20px;font-weight:800;fill:#F0A532}
+.s{font-size:13px;fill:#6E7681}
+.dot{animation:pu 1.6s ease-in-out infinite}
+@keyframes pu{0%,100%{opacity:.3}50%{opacity:1}}
+@keyframes sweep{from{stroke-dashoffset:300}to{stroke-dashoffset:0}}
+.sw{stroke:#00D8F0;stroke-width:1.5;stroke-dasharray:40 260;animation:sweep 3s linear infinite}
+</style>
+<line class="l" x1="40" y1="32" x2="300" y2="32"/><line class="l" x1="600" y1="32" x2="860" y2="32"/>
+<line class="sw" x1="40" y1="32" x2="300" y2="32"/><line class="sw" x1="600" y1="32" x2="860" y2="32"/>
+<circle class="dot" cx="310" cy="32" r="4" fill="#00D8F0"/><circle class="dot" cx="590" cy="32" r="4" fill="#00D8F0" style="animation-delay:.8s"/>
+<text class="t" x="450" y="39" text-anchor="middle">E X P E R I E N C E</text>
+</svg>
