@@ -130,6 +130,7 @@ def hero():
         ("LinkedIn", "in/mrithika-kumar-a12865316"),
         ("Mail", "mrithikakumar1112@gmail.com"),
         ("GitHub", "github.com/Mrithikahub"),
+        ("Portfolio", "mrithika-portfolio.vercel.app"),
     ]:
         lines.append((y, kv(k, v))); y += 20
     prompt_y = y + 18

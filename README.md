@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://mrithika-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B0E14?style=for-the-badge&logo=vercel&logoColor=E6EDF3" /></a>
   <a href="https://linkedin.com/in/mrithika-kumar-a12865316"><img src="https://img.shields.io/badge/LinkedIn-0B0E14?style=for-the-badge&logo=linkedin&logoColor=00D8F0" /></a>
   <a href="mailto:mrithikakumar1112@gmail.com"><img src="https://img.shields.io/badge/Gmail-0B0E14?style=for-the-badge&logo=gmail&logoColor=F0A532" /></a>
   <a href="https://discord.com/users/1287637268168704080"><img src="https://img.shields.io/badge/Discord-mrithika0552-0B0E14?style=for-the-badge&logo=discord&logoColor=B57BFF&labelColor=0B0E14" /></a>
